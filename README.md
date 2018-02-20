@@ -21,5 +21,12 @@ Elm week at Founders &amp; Coders
 
 ## Useful Resources
 
-+ Cheat sheet - https://www.elm-tutorial.org/en/
 + Great tutorial but gets pretty advanced later on - https://www.elm-tutorial.org/en/
+
+## Essential Packages
+
++ install elm https://guide.elm-lang.org/install.html
++ elm format (needs both packages below)
+  + elm format https://github.com/avh4/elm-format
+  + atom elm format https://atom.io/packages/elm-format
++ elm syntax highlighting https://atom.io/packages/language-elm
